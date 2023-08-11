@@ -1,0 +1,541 @@
+{
+    "info": {
+        "description": "The wsrdata roost dataset v0.0.2 with bounding box annotations.",
+        "comments": "(1) There is no restrictions on radar scans and thus we use Public Domain Mark for them; we use the Apache License 2.0 for this dataset. (2) This dataset includes a) scans and annotations from v0.0.1 and b) scans from 12 great lakes stations and their annotations which are ecologist-screened system predictions. (3) Bounding boxes from dataset v0.0.1 are standardized to the heuristic scaling factor of 0.7429 using scaling factors learned by the EM algorithm as in Cheng et al. (2019); the screened system predictions are not scaled. (4) Paths in this json use / instead of \\; this may need to be changes for a different OS.",
+        "url": "",
+        "dataset_version": "v0.0.2",
+        "license": {
+            "url": "http://www.apache.org/licenses/",
+            "name": "Apache License 2.0"
+        },
+        "scan_license": {
+            "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+            "name": "Public Domain Mark"
+        },
+        "annotation_version": "v2.0.0",
+        "date_created": "2021/11/28",
+        "array_version": "v0.2.0",
+        "array_dir": "/scratch2/wenlongzhao/wsrdata/tools/../static/arrays/v0.2.0",
+        "array_dimension_order": [
+            "field",
+            "elevation",
+            "y",
+            "x"
+        ],
+        "array_ydirection": "xy",
+        "array_shape": [
+            3,
+            5,
+            600,
+            600
+        ],
+        "array_fields": [
+            "reflectivity",
+            "velocity",
+            "spectrum_width"
+        ],
+        "array_elevations": [
+            0.5,
+            1.5,
+            2.5,
+            3.5,
+            4.5
+        ],
+        "array_r_max": 150000.0,
+        "dualpol_shape": [
+            3,
+            5,
+            600,
+            600
+        ],
+        "dualpol_fields": [
+            "differential_reflectivity",
+            "cross_correlation_ratio",
+            "differential_phase"
+        ],
+        "dualpol_elevations": [
+            0.5,
+            1.5,
+            2.5,
+            3.5,
+            4.5
+        ],
+        "bbox_mode": "XYWH",
+        "pre_dataset_info": [
+            {
+                "description": "A mini roost dataset with bbox annotations for testing whether the data preparation pipeline is successfully set up. Three scans in the train and test splits respectively.",
+                "comments": "(1) There is no restrictions on radar scans and thus we use Public Domain Mark for them; we use the Apache License 2.0 for this dataset. (2) Bounding boxes are standardized to the heuristic scaling factor of 0.7429 using scaling factors learned by the EM algorithm as in Cheng et al. (2019). (3) Paths in this json use / instead of \\; this may need to be changes for a different OS.",
+                "url": "",
+                "dataset_version": "v0.0.1",
+                "license": {
+                    "url": "http://www.apache.org/licenses/",
+                    "name": "Apache License 2.0"
+                },
+                "scan_license": {
+                    "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+                    "name": "Public Domain Mark"
+                },
+                "annotation_version": "v1.0.0",
+                "user_model_version": "v1.0.0_hardEM200000",
+                "date_created": "2021/04/20",
+                "array_version": "v0.0.1",
+                "array_dir": "/scratch2/wenlongzhao/wsrdata/tools/../static/arrays/v0.0.1",
+                "array_dimension_order": [
+                    "field",
+                    "elevation",
+                    "y",
+                    "x"
+                ],
+                "array_ydirection": "xy",
+                "array_shape": [
+                    3,
+                    5,
+                    600,
+                    600
+                ],
+                "array_fields": [
+                    "reflectivity",
+                    "velocity",
+                    "spectrum_width"
+                ],
+                "array_elevations": [
+                    0.5,
+                    1.5,
+                    2.5,
+                    3.5,
+                    4.5
+                ],
+                "array_r_max": 150000.0,
+                "dualpol_shape": [
+                    3,
+                    5,
+                    600,
+                    600
+                ],
+                "dualpol_fields": [
+                    "differential_reflectivity",
+                    "cross_correlation_ratio",
+                    "differential_phase"
+                ],
+                "dualpol_elevations": [
+                    0.5,
+                    1.5,
+                    2.5,
+                    3.5,
+                    4.5
+                ],
+                "bbox_mode": "XYWH"
+            }
+        ]
+    },
+    "scans": [
+        {
+            "id": 0,
+            "annotation_ids": [
+                0
+            ],
+            "dataset_version": "v0.0.1",
+            "key": "KAMX20101024_111513_V03",
+            "minutes_from_sunrise": -10,
+            "array_path": "2010/10/24/KAMX/KAMX20101024_111513_V03.npz"
+        },
+        {
+            "id": 1,
+            "annotation_ids": [
+                1
+            ],
+            "dataset_version": "v0.0.1",
+            "key": "KAMX20101024_112106_V03",
+            "minutes_from_sunrise": -4,
+            "array_path": "2010/10/24/KAMX/KAMX20101024_112106_V03.npz"
+        },
+        {
+            "id": 2,
+            "annotation_ids": [
+                2
+            ],
+            "dataset_version": "v0.0.1",
+            "key": "KAMX20101024_112700_V03",
+            "minutes_from_sunrise": 2,
+            "array_path": "2010/10/24/KAMX/KAMX20101024_112700_V03.npz"
+        },
+        {
+            "id": 3,
+            "annotation_ids": [],
+            "dataset_version": "v0.0.1",
+            "key": "KOKX20130721_093320_V06",
+            "minutes_from_sunrise": null,
+            "array_path": "2013/07/21/KOKX/KOKX20130721_093320_V06.npz"
+        },
+        {
+            "id": 4,
+            "annotation_ids": [
+                3
+            ],
+            "dataset_version": "v0.0.1",
+            "key": "KTBW20090209_120356_V03",
+            "minutes_from_sunrise": -7,
+            "array_path": "2009/02/09/KTBW/KTBW20090209_120356_V03.npz"
+        },
+        {
+            "id": 5,
+            "annotation_ids": [
+                4
+            ],
+            "dataset_version": "v0.0.1",
+            "key": "KTBW20031123_115217",
+            "minutes_from_sunrise": -5,
+            "array_path": "2003/11/23/KTBW/KTBW20031123_115217.npz"
+        },
+        {
+            "id": 6,
+            "annotation_ids": [],
+            "dataset_version": "v0.0.2",
+            "key": "KAPX20200605_093643_V06",
+            "minutes_from_sunrise": null,
+            "array_path": "2020/06/05/KAPX/KAPX20200605_093643_V06.npz"
+        },
+        {
+            "id": 7,
+            "annotation_ids": [
+                5
+            ],
+            "dataset_version": "v0.0.2",
+            "key": "KAPX20200724_101231_V06",
+            "minutes_from_sunrise": -4,
+            "array_path": "2020/07/24/KAPX/KAPX20200724_101231_V06.npz"
+        },
+        {
+            "id": 8,
+            "annotation_ids": [
+                6
+            ],
+            "dataset_version": "v0.0.2",
+            "key": "KAPX20200724_101939_V06",
+            "minutes_from_sunrise": 3,
+            "array_path": "2020/07/24/KAPX/KAPX20200724_101939_V06.npz"
+        },
+        {
+            "id": 9,
+            "annotation_ids": [
+                7,
+                8
+            ],
+            "dataset_version": "v0.0.2",
+            "key": "KGRB20060811_102724",
+            "minutes_from_sunrise": -23,
+            "array_path": "2006/08/11/KGRB/KGRB20060811_102724.npz"
+        },
+        {
+            "id": 10,
+            "annotation_ids": [
+                9,
+                10
+            ],
+            "dataset_version": "v0.0.2",
+            "key": "KGRB20060811_103709",
+            "minutes_from_sunrise": -13,
+            "array_path": "2006/08/11/KGRB/KGRB20060811_103709.npz"
+        },
+        {
+            "id": 11,
+            "annotation_ids": [
+                11
+            ],
+            "dataset_version": "v0.0.2",
+            "key": "KAPX20200808_103356_V06",
+            "minutes_from_sunrise": 0,
+            "array_path": "2020/08/08/KAPX/KAPX20200808_103356_V06.npz"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "scan_id": 0,
+            "category_id": 0,
+            "dataset_version": "v0.0.1",
+            "track_id": 3604,
+            "lon": null,
+            "lat": null,
+            "radius": null,
+            "x_im": 255.615,
+            "y_im": 423.145,
+            "r_im": 6.113408429536832,
+            "bbox": [
+                249.12525316080544,
+                416.2580814833558,
+                11.749493678389086,
+                12.48383703328841
+            ],
+            "bbox_area": 146.67876430466174,
+            "subcategory": null,
+            "notes": null,
+            "day_notes": null
+        },
+        {
+            "id": 1,
+            "scan_id": 1,
+            "category_id": 0,
+            "dataset_version": "v0.0.1",
+            "track_id": 3604,
+            "lon": null,
+            "lat": null,
+            "radius": null,
+            "x_im": 255.615,
+            "y_im": 423.145,
+            "r_im": 10.988830368657187,
+            "bbox": [
+                243.9848496765102,
+                411.98484967651024,
+                22.030300646979555,
+                22.030300646979526
+            ],
+            "bbox_area": 485.33414659630716,
+            "subcategory": null,
+            "notes": null,
+            "day_notes": null
+        },
+        {
+            "id": 2,
+            "scan_id": 2,
+            "category_id": 0,
+            "dataset_version": "v0.0.1",
+            "track_id": 3604,
+            "lon": null,
+            "lat": null,
+            "radius": null,
+            "x_im": 255.615,
+            "y_im": 423.145,
+            "r_im": 20.025356174906154,
+            "bbox": [
+                235.1727294177184,
+                402.30555774026874,
+                39.654541164563256,
+                40.38888451946252
+            ],
+            "bbox_area": 1601.6026837678182,
+            "subcategory": null,
+            "notes": null,
+            "day_notes": null
+        },
+        {
+            "id": 3,
+            "scan_id": 4,
+            "category_id": 0,
+            "dataset_version": "v0.0.1",
+            "track_id": 12613,
+            "lon": null,
+            "lat": null,
+            "radius": null,
+            "x_im": 300.742,
+            "y_im": 184.343,
+            "r_im": 21.957632176460223,
+            "bbox": [
+                278.6519902568172,
+                161.80519645136985,
+                43.69601948636557,
+                44.389607097260296
+            ],
+            "bbox_area": 1939.6491367139974,
+            "subcategory": null,
+            "notes": null,
+            "day_notes": null
+        },
+        {
+            "id": 4,
+            "scan_id": 5,
+            "category_id": 0,
+            "dataset_version": "v0.0.1",
+            "track_id": 11210,
+            "lon": null,
+            "lat": null,
+            "radius": null,
+            "x_im": 442.669,
+            "y_im": 154.583,
+            "r_im": 25.956115456818598,
+            "bbox": [
+                416.49046459144904,
+                128.49046459144904,
+                52.01907081710192,
+                52.01907081710192
+            ],
+            "bbox_area": 2705.9837286746647,
+            "subcategory": null,
+            "notes": null,
+            "day_notes": null
+        },
+        {
+            "id": 5,
+            "scan_id": 7,
+            "category_id": 0,
+            "dataset_version": "v0.0.2",
+            "track_id": "KAPX20200724-2",
+            "lon": -84.84,
+            "lat": 44.332024,
+            "radius": 3003.437042,
+            "x_im": 280.6,
+            "y_im": 172.17794800000001,
+            "r_im": 6.006874,
+            "bbox": [
+                274,
+                166,
+                12,
+                12
+            ],
+            "bbox_area": 144,
+            "subcategory": "swallow-roost",
+            "notes": "",
+            "day_notes": ""
+        },
+        {
+            "id": 6,
+            "scan_id": 8,
+            "category_id": 0,
+            "dataset_version": "v0.0.2",
+            "track_id": "KAPX20200724-2",
+            "lon": -84.84,
+            "lat": 44.336926,
+            "radius": 6501.040228,
+            "x_im": 280.14,
+            "y_im": 173.268059,
+            "r_im": 13.00208,
+            "bbox": [
+                267,
+                160,
+                26,
+                26
+            ],
+            "bbox_area": 676,
+            "subcategory": "swallow-roost",
+            "notes": "",
+            "day_notes": ""
+        },
+        {
+            "id": 7,
+            "scan_id": 9,
+            "category_id": 0,
+            "dataset_version": "v0.0.2",
+            "track_id": "KGRB20060811-2",
+            "lon": -88.82,
+            "lat": 44.132133,
+            "radius": 5909.973145,
+            "x_im": 185.86,
+            "y_im": 219.11431900000002,
+            "r_im": 11.819946,
+            "bbox": [
+                174,
+                207,
+                23,
+                23
+            ],
+            "bbox_area": 529,
+            "subcategory": "bad-track",
+            "notes": "long",
+            "day_notes": ""
+        },
+        {
+            "id": 8,
+            "scan_id": 9,
+            "category_id": 0,
+            "dataset_version": "v0.0.2",
+            "track_id": "KGRB20060811-1",
+            "lon": -87.56,
+            "lat": 45.056617,
+            "radius": 7067.970276,
+            "x_im": 386.64,
+            "y_im": 424.374451,
+            "r_im": 14.135941,
+            "bbox": [
+                372,
+                410,
+                28,
+                28
+            ],
+            "bbox_area": 784,
+            "subcategory": "swallow-roost",
+            "notes": "",
+            "day_notes": ""
+        },
+        {
+            "id": 9,
+            "scan_id": 10,
+            "category_id": 0,
+            "dataset_version": "v0.0.2",
+            "track_id": "KGRB20060811-2",
+            "lon": -88.82,
+            "lat": 44.14092,
+            "radius": 9231.723149,
+            "x_im": 186.27,
+            "y_im": 221.063653,
+            "r_im": 18.463446,
+            "bbox": [
+                167,
+                202,
+                37,
+                37
+            ],
+            "bbox_area": 1369,
+            "subcategory": "bad-track",
+            "notes": "long",
+            "day_notes": ""
+        },
+        {
+            "id": 10,
+            "scan_id": 10,
+            "category_id": 0,
+            "dataset_version": "v0.0.2",
+            "track_id": "KGRB20060811-1",
+            "lon": -87.59,
+            "lat": 45.058816,
+            "radius": 12453.380551,
+            "x_im": 382.86,
+            "y_im": 424.83815000000004,
+            "r_im": 24.906761,
+            "bbox": [
+                357,
+                399,
+                50,
+                50
+            ],
+            "bbox_area": 2500,
+            "subcategory": "swallow-roost",
+            "notes": "",
+            "day_notes": ""
+        },
+        {
+            "id": 11,
+            "scan_id": 11,
+            "category_id": 0,
+            "dataset_version": "v0.0.2",
+            "track_id": "KAPX20200808-3",
+            "lon": -84.29,
+            "lat": 44.445789,
+            "radius": 10041.84341,
+            "x_im": 368.29,
+            "y_im": 197.62658699999997,
+            "r_im": 20.083687,
+            "bbox": [
+                348,
+                177,
+                40,
+                40
+            ],
+            "bbox_area": 1600,
+            "subcategory": "swallow-roost",
+            "notes": "",
+            "day_notes": "miss"
+        }
+    ],
+    "categories": [
+        "roost"
+    ],
+    "subcategories": {
+        "roost": [
+            "swallow-roost",
+            "weather-roost",
+            "unknown-noise-roost",
+            "AP-roost",
+            "bad-track"
+        ]
+    }
+}

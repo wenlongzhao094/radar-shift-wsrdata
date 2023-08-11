@@ -1,0 +1,220 @@
+{
+    "info": {
+        "description": "A mini roost dataset with bbox annotations for testing whether the data preparation pipeline is successfully set up. Three scans in the train and test splits respectively.",
+        "comments": "(1) There is no restrictions on radar scans and thus we use Public Domain Mark for them; we use the Apache License 2.0 for this dataset. (2) Bounding boxes are standardized to the heuristic scaling factor of 0.7429 using scaling factors learned by the EM algorithm as in Cheng et al. (2019). (3) Paths in this json use / instead of \\; this may need to be changes for a different OS.",
+        "url": "",
+        "dataset_version": "v0.0.1",
+        "license": {
+            "url": "http://www.apache.org/licenses/",
+            "name": "Apache License 2.0"
+        },
+        "scan_license": {
+            "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+            "name": "Public Domain Mark"
+        },
+        "annotation_version": "v1.0.0",
+        "user_model_version": "v1.0.0_hardEM200000",
+        "date_created": "2021/04/20",
+        "array_version": "v0.0.1",
+        "array_dir": "/scratch2/wenlongzhao/wsrdata/tools/../static/arrays/v0.0.1",
+        "array_dimension_order": [
+            "field",
+            "elevation",
+            "y",
+            "x"
+        ],
+        "array_ydirection": "xy",
+        "array_shape": [
+            3,
+            5,
+            600,
+            600
+        ],
+        "array_fields": [
+            "reflectivity",
+            "velocity",
+            "spectrum_width"
+        ],
+        "array_elevations": [
+            0.5,
+            1.5,
+            2.5,
+            3.5,
+            4.5
+        ],
+        "array_r_max": 150000.0,
+        "dualpol_shape": [
+            3,
+            5,
+            600,
+            600
+        ],
+        "dualpol_fields": [
+            "differential_reflectivity",
+            "cross_correlation_ratio",
+            "differential_phase"
+        ],
+        "dualpol_elevations": [
+            0.5,
+            1.5,
+            2.5,
+            3.5,
+            4.5
+        ],
+        "bbox_mode": "XYWH"
+    },
+    "scans": [
+        {
+            "id": 0,
+            "key": "KAMX20101024_111513_V03",
+            "minutes_from_sunrise": -10,
+            "array_path": "2010/10/24/KAMX/KAMX20101024_111513_V03.npz",
+            "annotation_ids": [
+                0
+            ]
+        },
+        {
+            "id": 1,
+            "key": "KAMX20101024_112106_V03",
+            "minutes_from_sunrise": -4,
+            "array_path": "2010/10/24/KAMX/KAMX20101024_112106_V03.npz",
+            "annotation_ids": [
+                1
+            ]
+        },
+        {
+            "id": 2,
+            "key": "KAMX20101024_112700_V03",
+            "minutes_from_sunrise": 2,
+            "array_path": "2010/10/24/KAMX/KAMX20101024_112700_V03.npz",
+            "annotation_ids": [
+                2
+            ]
+        },
+        {
+            "id": 3,
+            "key": "KOKX20130721_093320_V06",
+            "minutes_from_sunrise": null,
+            "array_path": "2013/07/21/KOKX/KOKX20130721_093320_V06.npz",
+            "annotation_ids": []
+        },
+        {
+            "id": 4,
+            "key": "KTBW20090209_120356_V03",
+            "minutes_from_sunrise": -7,
+            "array_path": "2009/02/09/KTBW/KTBW20090209_120356_V03.npz",
+            "annotation_ids": [
+                3
+            ]
+        },
+        {
+            "id": 5,
+            "key": "KTBW20031123_115217",
+            "minutes_from_sunrise": -5,
+            "array_path": "2003/11/23/KTBW/KTBW20031123_115217.npz",
+            "annotation_ids": [
+                4
+            ]
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "scan_id": 0,
+            "category_id": 0,
+            "sequence_id": 3604,
+            "x": -22192.5,
+            "y": 61572.5,
+            "r": 3056.704214768416,
+            "x_im": 255.615,
+            "y_im": 423.145,
+            "r_im": 6.113408429536832,
+            "bbox": [
+                249.12525316080544,
+                416.2580814833558,
+                11.749493678389086,
+                12.48383703328841
+            ],
+            "bbox_area": 146.67876430466174
+        },
+        {
+            "id": 1,
+            "scan_id": 1,
+            "category_id": 0,
+            "sequence_id": 3604,
+            "x": -22192.5,
+            "y": 61572.5,
+            "r": 5494.415184328593,
+            "x_im": 255.615,
+            "y_im": 423.145,
+            "r_im": 10.988830368657187,
+            "bbox": [
+                243.9848496765102,
+                411.98484967651024,
+                22.030300646979555,
+                22.030300646979526
+            ],
+            "bbox_area": 485.33414659630716
+        },
+        {
+            "id": 2,
+            "scan_id": 2,
+            "category_id": 0,
+            "sequence_id": 3604,
+            "x": -22192.5,
+            "y": 61572.5,
+            "r": 10012.678087453076,
+            "x_im": 255.615,
+            "y_im": 423.145,
+            "r_im": 20.025356174906154,
+            "bbox": [
+                235.1727294177184,
+                402.30555774026874,
+                39.654541164563256,
+                40.38888451946252
+            ],
+            "bbox_area": 1601.6026837678182
+        },
+        {
+            "id": 3,
+            "scan_id": 4,
+            "category_id": 0,
+            "sequence_id": 12613,
+            "x": 371.00000000001,
+            "y": -57828.5,
+            "r": 10978.816088230113,
+            "x_im": 300.742,
+            "y_im": 184.343,
+            "r_im": 21.957632176460223,
+            "bbox": [
+                278.6519902568172,
+                161.80519645136985,
+                43.69601948636557,
+                44.389607097260296
+            ],
+            "bbox_area": 1939.6491367139974
+        },
+        {
+            "id": 4,
+            "scan_id": 5,
+            "category_id": 0,
+            "sequence_id": 11210,
+            "x": 71334.5,
+            "y": -72708.5,
+            "r": 12978.0577284093,
+            "x_im": 442.669,
+            "y_im": 154.583,
+            "r_im": 25.956115456818598,
+            "bbox": [
+                416.49046459144904,
+                128.49046459144904,
+                52.01907081710192,
+                52.01907081710192
+            ],
+            "bbox_area": 2705.9837286746647
+        }
+    ],
+    "categories": [
+        "roost"
+    ]
+}

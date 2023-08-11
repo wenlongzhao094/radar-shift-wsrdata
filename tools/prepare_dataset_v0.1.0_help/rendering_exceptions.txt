@@ -1,0 +1,520 @@
+Exception while rendering a npy array from scan KAMX20101102_113345_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20020406_105532 - Failed to match at least one requested elevation
+Exception while loading scan KMLB20020406_123241 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB20020409_114635 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20020411_104315 - Failed to match at least one requested elevation
+Exception while loading scan KMLB20020411_121525 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB20020414_113557 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB20020415_103209 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB20020418_111724 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB20020418_121347 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB20020420_103714 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KAMX20120206_130822_V06 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20021201_122553 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20021202_114910 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20021204_114850 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KAMX20120501_115544_V06 - Failed to match at least one requested elevation
+Exception while loading scan KTBW20051120_124333 - index 0 is out of bounds for axis 0 with size 0
+Exception while loading scan KTBW20051120_130643 - index 0 is out of bounds for axis 0 with size 0
+Exception while rendering a npy array from scan KMLB20130125_130854_V06 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20130210_114554_V06 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20060213_133340 - Failed to match at least one requested elevation
+Exception while loading scan KLIX19951106_133056 - unpack requires a buffer of 100 bytes
+Exception while loading scan KLIX19961223_132319 - unpack requires a buffer of 16 bytes
+Exception while loading scan KDOX20101004_103049_V04 - list index out of range
+Exception while loading scan KDOX20101004_103634_V04 - list index out of range
+Exception while loading scan KDOX20101004_104220_V04 - list index out of range
+Exception while loading scan KDOX20101004_104805_V04 - list index out of range
+Exception while loading scan KDOX20101004_105350_V04 - list index out of range
+Exception while loading scan KDOX20101004_105935_V04 - list index out of range
+Exception while loading scan KDOX20101004_110521_V04 - list index out of range
+Exception while loading scan KDOX20101004_111106_V04 - list index out of range
+Exception while loading scan KDOX20101004_111651_V04 - list index out of range
+Exception while loading scan KDOX20101004_112236_V04 - list index out of range
+Exception while loading scan KDOX20101004_112822_V04 - list index out of range
+Exception while loading scan KDOX20101004_113407_V04 - list index out of range
+Exception while loading scan KDOX20101004_113952_V04 - list index out of range
+Exception while loading scan KDOX20101004_114537_V04 - list index out of range
+Exception while loading scan KDOX20101004_115122_V04 - list index out of range
+Exception while loading scan KDOX20101004_115707_V04 - list index out of range
+Exception while loading scan KDOX20101004_120252_V04 - list index out of range
+Exception while loading scan KDOX20101004_120838_V04 - list index out of range
+Exception while loading scan KDOX20101004_121424_V04 - list index out of range
+Exception while loading scan KDOX20101004_122009_V04 - list index out of range
+Exception while loading scan KDOX20101004_122554_V04 - list index out of range
+Exception while rendering a npy array from scan KLIX19991029_121028 - Failed to match at least one requested elevation
+Exception while loading scan KLIX19991029_125740 - unknown compression record
+Exception while rendering a npy array from scan KLIX19991207_123519 - Failed to match at least one requested elevation
+Exception while loading scan KLIX19991230_124621 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB20031218_122551 - index 0 is out of bounds for axis 0 with size 0
+Exception while rendering a npy array from scan KMLB20040115_131407 - Failed to match at least one requested elevation
+Exception while loading scan KLIX20030109_131721 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KLIX20031020_131343 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX20031116_120855 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20040217_124730 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX20111116_122732_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX20111116_124351_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20110406_122751_V03 - Failed to match at least one requested elevation
+Exception while loading scan KLIX19960104_140239 - unpack requires a buffer of 16 bytes
+Exception while rendering a npy array from scan KLIX19960329_120440 - Failed to match at least one requested elevation
+Exception while loading scan KLIX20050406_111508 - index 0 is out of bounds for axis 0 with size 0
+Exception while loading scan KLIX20050406_115136 - index 0 is out of bounds for axis 0 with size 0
+Exception while loading scan KLIX20050406_122802 - index 0 is out of bounds for axis 0 with size 0
+Exception while rendering a npy array from scan KDOX20081001_111200_V04 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX19961204_125604 - Failed to match at least one requested elevation
+Exception while loading scan KLIX19961206_131902 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KLIX19970102_124344 - Failed to match at least one requested elevation
+Exception while loading scan KLIX19970126_130212 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KLIX20120410_121441_V03 - Failed to match at least one requested elevation
+Exception while loading scan KDOX20100922_053352_V04 - list index out of range
+Exception while loading scan KDOX20100922_185239_V04 - list index out of range
+Exception while loading scan KDOX20100922_215900_V04 - list index out of range
+Exception while loading scan KDOX20100923_060456_V04 - list index out of range
+Exception while loading scan KDOX20100923_075907_V04 - list index out of range
+Exception while loading scan KDOX20100923_104046_V04 - list index out of range
+Exception while loading scan KDOX20100923_104630_V04 - list index out of range
+Exception while loading scan KDOX20100923_105214_V04 - list index out of range
+Exception while loading scan KDOX20100923_105759_V04 - list index out of range
+Exception while loading scan KDOX20100923_110342_V04 - list index out of range
+Exception while loading scan KDOX20100923_110926_V04 - list index out of range
+Exception while loading scan KDOX20100923_111511_V04 - list index out of range
+Exception while loading scan KDOX20100923_112055_V04 - list index out of range
+Exception while loading scan KDOX20100925_072013_V04 - list index out of range
+Exception while loading scan KDOX20100925_083655_V04 - list index out of range
+Exception while loading scan KDOX20100926_084650_V04 - list index out of range
+Exception while loading scan KDOX20100926_094959_V04 - list index out of range
+Exception while loading scan KDOX20100926_103553_V04 - list index out of range
+Exception while loading scan KDOX20100926_104137_V04 - list index out of range
+Exception while loading scan KDOX20100926_104721_V04 - list index out of range
+Exception while loading scan KDOX20100926_105306_V04 - list index out of range
+Exception while loading scan KDOX20100926_105852_V04 - list index out of range
+Exception while loading scan KDOX20100926_110436_V04 - list index out of range
+Exception while loading scan KDOX20100926_111020_V04 - list index out of range
+Exception while loading scan KDOX20100926_111604_V04 - list index out of range
+Exception while loading scan KDOX20100926_112149_V04 - list index out of range
+Exception while loading scan KDOX20100926_112733_V04 - list index out of range
+Exception while loading scan KDOX20100926_182058_V04 - list index out of range
+Exception while loading scan KDOX20100926_225633_V04 - list index out of range
+Exception while loading scan KDOX20100927_073906_V04 - list index out of range
+Exception while loading scan KDOX20100927_112508_V04 - list index out of range
+Exception while loading scan KDOX20100927_124909_V04 - list index out of range
+Exception while loading scan KDOX20100928_004615_V04 - list index out of range
+Exception while loading scan KDOX20100928_005150_V04 - list index out of range
+Exception while loading scan KDOX20100928_012524_V04 - list index out of range
+Exception while loading scan KDOX20100928_014211_V04 - list index out of range
+Exception while loading scan KDOX20100928_071747_V04 - list index out of range
+Exception while loading scan KDOX20100928_132125_V04 - list index out of range
+Exception while loading scan KDOX20100928_135458_V04 - list index out of range
+Exception while loading scan KDOX20100928_210525_V04 - list index out of range
+Exception while loading scan KDOX20100929_053102_V04 - list index out of range
+Exception while loading scan KDOX20100929_104120_V04 - list index out of range
+Exception while loading scan KDOX20100929_104706_V04 - list index out of range
+Exception while loading scan KDOX20100929_105250_V04 - list index out of range
+Exception while loading scan KDOX20100929_105835_V04 - list index out of range
+Exception while loading scan KDOX20100929_110420_V04 - list index out of range
+Exception while loading scan KDOX20100929_111004_V04 - list index out of range
+Exception while loading scan KDOX20100929_111549_V04 - list index out of range
+Exception while loading scan KDOX20100929_112134_V04 - list index out of range
+Exception while loading scan KDOX20100929_112719_V04 - list index out of range
+Exception while loading scan KDOX20100929_113306_V04 - list index out of range
+Exception while loading scan KDOX20100929_113850_V04 - list index out of range
+Exception while loading scan KDOX20100929_114435_V04 - list index out of range
+Exception while loading scan KDOX20101001_010339_V04 - list index out of range
+Exception while loading scan KDOX20101001_011723_V04 - list index out of range
+Exception while loading scan KDOX20101001_045241_V04 - list index out of range
+Exception while loading scan KDOX20101001_093209_V04 - list index out of range
+Exception while loading scan KDOX20101001_112643_V04 - list index out of range
+Exception while loading scan KDOX20101001_124918_V04 - list index out of range
+Exception while loading scan KDOX20101003_064624_V04 - list index out of range
+Exception while loading scan KDOX20101003_082424_V04 - list index out of range
+Exception while loading scan KDOX20101003_085313_V04 - list index out of range
+Exception while loading scan KDOX20101003_095636_V04 - list index out of range
+Exception while loading scan KDOX20101003_104825_V04 - list index out of range
+Exception while loading scan KDOX20101003_105411_V04 - list index out of range
+Exception while loading scan KDOX20101003_105956_V04 - list index out of range
+Exception while loading scan KDOX20101003_110542_V04 - list index out of range
+Exception while loading scan KDOX20101003_111128_V04 - list index out of range
+Exception while loading scan KDOX20101003_111713_V04 - list index out of range
+Exception while loading scan KDOX20101003_112258_V04 - list index out of range
+Exception while loading scan KDOX20101003_112844_V04 - list index out of range
+Exception while loading scan KDOX20101003_113429_V04 - list index out of range
+Exception while loading scan KDOX20101003_114015_V04 - list index out of range
+Exception while loading scan KDOX20101003_114600_V04 - list index out of range
+Exception while loading scan KDOX20101003_115148_V04 - list index out of range
+Exception while loading scan KDOX20101003_115733_V04 - list index out of range
+Exception while loading scan KDOX20101003_120319_V04 - list index out of range
+Exception while loading scan KDOX20101003_120904_V04 - list index out of range
+Exception while loading scan KDOX20101005_153617_V04 - list index out of range
+Exception while loading scan KDOX20101006_074350_V04 - list index out of range
+Exception while loading scan KDOX20101006_080110_V04 - list index out of range
+Exception while loading scan KDOX20101006_222221_V04 - list index out of range
+Exception while loading scan KDOX20101007_005746_V04 - list index out of range
+Exception while loading scan KDOX20101007_023537_V04 - list index out of range
+Exception while loading scan KDOX20101014_213050_V04 - list index out of range
+Exception while rendering a npy array from scan KMLB20050409_120631 - Failed to match at least one requested elevation
+Exception while loading scan KDOX20101027_183809_V04 - list index out of range
+Exception while loading scan KDOX20101027_191200_V04 - list index out of range
+Exception while loading scan KDOX20101027_193723_V04 - list index out of range
+Exception while loading scan KDOX20101028_043414_V04 - list index out of range
+Exception while loading scan KDOX20101028_064101_V04 - list index out of range
+Exception while loading scan KDOX20101028_080532_V04 - list index out of range
+Exception while loading scan KMLB19930208_130941 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19930308_114214 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX20120329_125521_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KJAX20111021_112353_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KJAX20111021_125337_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KJAX20111025_115127_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19930324_124239 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20060109_131359 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19930417_103223 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19930422_113054 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19930131_122805 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB20130128_121157_V06 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19930502_115303 - unpack requires a buffer of 16 bytes
+Exception while loading scan KMLB19930504_102655 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19931014_112311 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19931019_124132 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19931027_115138 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19930408_120334 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19931028_124024 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19931022_111000 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19931029_125524 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19931106_115228 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19931111_122744 - unpack requires a buffer of 16 bytes
+Exception while rendering a npy array from scan KMLB19931222_125406 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19931115_120233 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19931116_114346 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19931116_123657 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19940307_124805 - index 0 is out of bounds for axis 0 with size 0
+Exception while rendering a npy array from scan KTBW20090121_134827_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20090126_131255_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20060403_111424 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19940428_114400 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19941030_114441 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19931216_122421 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMOB20111026_125825_V03 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19931219_130936 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19931220_120326 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19940108_132053 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19940115_120349 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19941220_131826 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19940117_123438 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX19951128_124250 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19950302_121737 - unpack requires a buffer of 16 bytes
+Exception while loading scan KLIX19951130_131409 - unpack requires a buffer of 16 bytes
+Exception while loading scan KMLB19940128_122814 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19950329_113726 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19940203_125853 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19940208_132228 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19951013_114433 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19940220_120220 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19940221_123225 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19940223_113521 - The points in dimension 0 must be strictly ascending
+Exception while rendering a npy array from scan KLIX20060410_130304 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19951224_132359 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX20061018_130141 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX20061111_123216 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19940309_120243 - Failed to match at least one requested elevation
+Exception while loading scan KLIX19961128_125216 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19960411_122540 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19961106_114305 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19940317_113914 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX19961207_121505 - Failed to match at least one requested elevation
+Exception while loading scan KLIX19961217_125435 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KLIX19970104_130702 - Failed to match at least one requested elevation
+Exception while loading scan KLIX19970104_140518 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19970104_133940 - unpack requires a buffer of 100 bytes
+Exception while loading scan KLIX19970111_130102 - unpack requires a buffer of 16 bytes
+Exception while rendering a npy array from scan KMLB19970319_112737 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19970319_115734 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX19970114_134155 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19970411_110428 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19970420_103240 - Failed to match at least one requested elevation
+Exception while loading scan KLIX19970305_122548 - unpack requires a buffer of 16 bytes
+Exception while loading scan KMLB19940412_112305 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19941031_113226 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19941106_124652 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19990203_120012 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KLIX20081016_114637_V04 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX20081016_121957_V04 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19990209_124218 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19990328_115507 - Failed to match at least one requested elevation
+Exception while loading scan KLIX19980131_131200 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19941122_113524 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19991224_123047 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19941122_122230 - unpack requires a buffer of 100 bytes
+Exception while loading scan KLIX19980221_121654 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19941124_115110 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX20091120_132306_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19941230_130534 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19941231_115554 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB20011030_112358 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB20011104_110630 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20011104_114643 - Failed to match at least one requested elevation
+Exception while loading scan KMLB20020417_114846 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB20020424_102850 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20021112_125533 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20021203_121825 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20021203_131303 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX20101228_141533_V03 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19950313_125539 - unpack requires a buffer of 100 bytes
+Exception while loading scan KLIX19991101_122624 - unknown compression record
+Exception while loading scan KLIX19991102_131952 - unknown compression record
+Exception while loading scan KLIX19991104_121958 - unknown compression record
+Exception while rendering a npy array from scan KLIX20110322_124004_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19950317_123325 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX20110418_125407_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19950320_123354 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19950321_123952 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19950323_120649 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19950327_124502 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19950328_110411 - unpack requires a buffer of 16 bytes
+Exception while loading scan KMLB19950409_113955 - unpack requires a buffer of 100 bytes
+Exception while loading scan KLIX19991224_130609 - unpack requires a buffer of 16 bytes
+Exception while rendering a npy array from scan KMLB19950420_114653 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19951026_111544 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19951026_124857 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19951102_130159 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19951103_111225 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19951104_113530 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19951126_112658 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19930201_130118 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19930201_130533 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19951208_114157 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19930306_120712 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19951225_124741 - unpack requires a buffer of 16 bytes
+Exception while loading scan KTBW19960125_121236 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19960109_133810 - unpack requires a buffer of 16 bytes
+Exception while rendering a npy array from scan KMLB19960112_125321 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19930505_105909 - unpack requires a buffer of 16 bytes
+Exception while loading scan KMLB19931013_105639 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19960201_115104 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19931108_130145 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19931109_112437 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19960210_131144 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW19960123_115757 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW19960126_122302 - Failed to match at least one requested elevation
+Exception while loading scan KTBW19960210_132900 - unpack requires a buffer of 100 bytes
+Exception while loading scan KTBW19960212_114526 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KLIX20031003_115810 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19940215_125745 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19940219_130619 - unpack requires a buffer of 16 bytes
+Exception while rendering a npy array from scan KLIX20031031_120905 - Failed to match at least one requested elevation
+Exception while loading scan KTBW19991128_122302 - unknown compression record
+Exception while rendering a npy array from scan KMLB20081030_121538_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19940422_115903 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19940423_103503 - The points in dimension 0 must be strictly ascending
+Exception while rendering a npy array from scan KMLB19941010_122032 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19941101_112854 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19961105_114528 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19961107_113858 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19961111_123425 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19941128_123705 - unpack requires a buffer of 16 bytes
+Exception while rendering a npy array from scan KMLB19961123_125419 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX20040123_130744 - Failed to match at least one requested elevation
+Exception while loading scan KLIX20040125_122818 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19950107_124122 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19950107_133123 - unpack requires a buffer of 16 bytes
+Exception while rendering a npy array from scan KMLB19950228_122956 - Failed to match at least one requested elevation
+Exception while loading scan KTBW20011115_112154 - unpack requires a buffer of 16 bytes
+Exception while rendering a npy array from scan KMLB19950306_112136 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20011120_115607 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19961226_123338 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX20040225_124231 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19961231_115634 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KTBW20011208_120014 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19950318_110419 - unpack requires a buffer of 100 bytes
+Exception while loading scan KTBW20011214_121531 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19950318_120341 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20011214_125623 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX20040314_131756 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20011214_133125 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20020131_120609 - Failed to match at least one requested elevation
+Exception while loading scan KTBW20020131_132237 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KTBW20020212_125433 - Failed to match at least one requested elevation
+Exception while loading scan KTBW20020213_124919 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KTBW20020220_131835 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19951021_114800 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20020325_113530 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20020325_121646 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19951028_120606 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20020330_120148 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19951101_110550 - Failed to match at least one requested elevation
+Exception while loading scan KTBW20020420_120703 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19970318_112801 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19970318_115800 - unpack requires a buffer of 100 bytes
+Exception while loading scan KTBW20020424_103744 - unpack requires a buffer of 100 bytes
+Exception while loading scan KTBW19981111_115637 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19970320_123406 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19951111_111925 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19970328_113545 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX20041026_122125 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19951201_123106 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19970406_104821 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KTBW19990129_125836 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19951205_115958 - unpack requires a buffer of 100 bytes
+Exception while loading scan KTBW19990201_131545 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB20111205_125054_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19951215_132341 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19951219_125525 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19951226_124352 - unpack requires a buffer of 16 bytes
+Exception while rendering a npy array from scan KMLB19951228_115426 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19970422_110544 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19960114_123310 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19960117_121834 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19960118_121922 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19960213_125026 - Failed to match at least one requested elevation
+Exception while loading scan KTBW20000107_124744 - unknown compression record
+Exception while rendering a npy array from scan KMLB19960413_114903 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19961022_122234 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19961117_115949 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19961119_113955 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KTBW20111102_124310_V03 - The points in dimension 0 must be strictly ascending
+Exception while rendering a npy array from scan KTBW20000229_132234 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19971120_121031 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19970313_112452 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19980113_124250 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19980119_132527 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19980120_132020 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19980122_124504 - unpack requires a buffer of 16 bytes
+Exception while loading scan KMLB19980127_123159 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19980127_130246 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19971030_124114 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19980321_110427 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19980330_114901 - unpack requires a buffer of 16 bytes
+Exception while loading scan KMLB19980402_113114 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KTBW20120105_123628_V03 - The points in dimension 0 must be strictly ascending
+Exception while rendering a npy array from scan KTBW20120105_130830_V03 - x and y arrays must have at least 2 entries
+Exception while rendering a npy array from scan KTBW20120108_115620_V03 - The points in dimension 0 must be strictly ascending
+Exception while rendering a npy array from scan KTBW20120110_120220_V03 - The points in dimension 0 must be strictly ascending
+Exception while rendering a npy array from scan KTBW20041118_124824 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20120110_122359_V03 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19980201_114810 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KTBW20120113_120850_V03 - x and y arrays must have at least 2 entries
+Exception while rendering a npy array from scan KTBW20120113_123704_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20120113_130807_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20120114_120425_V03 - x and y arrays must have at least 2 entries
+Exception while rendering a npy array from scan KTBW20120114_123052_V03 - The points in dimension 0 must be strictly ascending
+Exception while rendering a npy array from scan KTBW20120114_125227_V03 - x and y arrays must have at least 2 entries
+Exception while rendering a npy array from scan KTBW20120114_130607_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20120114_132846_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20120114_133519_V03 - x and y arrays must have at least 2 entries
+Exception while rendering a npy array from scan KTBW20120116_121539_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19980428_113615 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19980429_105121 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19980501_120220 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KTBW20011119_121259 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20011119_125940 - Failed to match at least one requested elevation
+Exception while loading scan KTBW20011122_113717 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19980511_114625 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KTBW20011123_121117 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20011123_125210 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20011127_120403 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19981013_121153 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19981107_115041 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19980410_112714 - Failed to match at least one requested elevation
+Exception while loading scan KTBW20011207_115359 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KTBW20011219_132853 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19981129_114453 - Failed to match at least one requested elevation
+Exception while loading scan KTBW20011229_121342 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19981201_121904 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19981203_123231 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KTBW20020116_131759 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20020119_121819 - Failed to match at least one requested elevation
+Exception while loading scan KTBW20020119_125321 - unpack requires a buffer of 100 bytes
+Exception while loading scan KTBW20020120_121155 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KTBW20020126_121426 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19981224_115239 - unpack requires a buffer of 16 bytes
+Exception while loading scan KTBW20020126_132940 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19981225_121210 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20020128_121839 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20020204_114958 - Failed to match at least one requested elevation
+Exception while loading scan KTBW20020204_124245 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19991031_121102 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19991031_130209 - unpack requires a buffer of 16 bytes
+Exception while rendering a npy array from scan KLIX20061107_120104 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19991102_123814 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KLIX20061107_123257 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19990121_122556 - unpack requires a buffer of 16 bytes
+Exception while rendering a npy array from scan KMLB19991110_114129 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19990126_130256 - unpack requires a buffer of 16 bytes
+Exception while rendering a npy array from scan KMLB19991110_122725 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19991110_124246 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19991110_130316 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19991124_113519 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19991124_120052 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KTBW20020318_121448 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19990216_120518 - Failed to match at least one requested elevation
+Exception while loading scan KTBW20020405_112402 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KTBW20020418_104652 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20020418_111201 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19990324_121901 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20000503_114524 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19990330_114058 - unknown compression record
+Exception while rendering a npy array from scan KTBW20020118_130518 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20120403_121519_V06 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX20071012_125556 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20020329_113635 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19991029_112715 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20120412_114904_V06 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19991111_113153 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19991111_114208 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19991111_115224 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20020130_124046 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20020201_122831 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB19991118_113458 - Failed to match at least one requested elevation
+Exception while loading scan KMLB20020209_124214 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19991121_130717 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19991122_114136 - unpack requires a buffer of 16 bytes
+Exception while loading scan KMLB20020416_114757 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB19991125_130228 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20020416_121843 - Failed to match at least one requested elevation
+Exception while loading scan KMLB19991210_124749 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19991214_122441 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19991217_120132 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB19991217_130801 - unpack requires a buffer of 16 bytes
+Exception while rendering a npy array from scan KLIX20080318_120303 - Failed to match at least one requested elevation
+Exception while loading scan KTBW20030221_113214 - index 0 is out of bounds for axis 0 with size 0
+Exception while rendering a npy array from scan KMLB20000111_120438 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20071019_122514 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20000327_111703 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX20081030_133117_V04 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KLIX20081117_122713_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20001112_114027 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20121228_130509_V06 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20090311_120649_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20050419_120621 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20010313_115821 - Failed to match at least one requested elevation
+Exception while loading scan KMLB20011024_122633 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB20011116_122704 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KTBW20090211_132142_V03 - Failed to match at least one requested elevation
+Exception while loading scan KMLB20011129_121934 - unpack requires a buffer of 16 bytes
+Exception while rendering a npy array from scan KMLB20011129_130938 - Failed to match at least one requested elevation
+Exception while loading scan KMLB20011201_124259 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB20011203_124716 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB20011205_114706 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB20011210_121541 - Failed to match at least one requested elevation
+Exception while loading scan KMLB20011220_122524 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB20020123_120727 - unpack requires a buffer of 100 bytes
+Exception while loading scan KMLB20020123_132752 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB20020125_120412 - Failed to match at least one requested elevation
+Exception while loading scan KMLB20020126_124127 - unpack requires a buffer of 100 bytes
+Exception while rendering a npy array from scan KMLB20020131_121046 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20060216_121339 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20101129_132650_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20111205_122434_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20120112_115640_V03 - x and y arrays must have at least 2 entries
+Exception while rendering a npy array from scan KTBW20120112_124248_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20120112_125214_V03 - The points in dimension 0 must be strictly ascending
+Exception while rendering a npy array from scan KTBW20120112_130632_V03 - The points in dimension 0 must be strictly ascending
+Exception while rendering a npy array from scan KTBW20120112_132009_V03 - x and y arrays must have at least 2 entries
+Exception while rendering a npy array from scan KTBW20120130_133855_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20130418_110709_V06 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KMLB20071010_111737 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20111020_121815_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20120107_122100_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20120109_122349_V03 - x and y arrays must have at least 2 entries
+Exception while rendering a npy array from scan KTBW20120109_123058_V03 - The points in dimension 0 must be strictly ascending
+Exception while rendering a npy array from scan KTBW20120109_125706_V03 - The points in dimension 0 must be strictly ascending
+Exception while rendering a npy array from scan KTBW20120109_133310_V03 - Failed to match at least one requested elevation
+Exception while rendering a npy array from scan KTBW20120405_114656_V06 - Failed to match at least one requested elevation

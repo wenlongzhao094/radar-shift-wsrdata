@@ -1,0 +1,17 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+!roosts_v0.0.1_official
+!roosts_v0.0.1_official/roosts_v0.0.1.json
+!roosts_v0.0.1_official/roosts_v0.0.1_standard_splits.json
+!roosts_v0.0.1_official/visualization
+!roosts_v0.0.1_official/visualization/KAMX20101024_111513_V03.png
+!roosts_v0.0.1_official/visualization/KAMX20101024_112106_V03.png
+!roosts_v0.0.1_official/visualization/KAMX20101024_112700_V03.png
+!roosts_v0.0.1_official/visualization/KOKX20130721_093320_V06.png
+!roosts_v0.0.1_official/visualization/KTBW20031123_115217.png
+!roosts_v0.0.1_official/visualization/KTBW20090209_120356_V03.png
+!roosts_v0.0.2_official
+!roosts_v0.0.2_official/roosts_v0.0.2.json
+!roosts_v0.0.2_official/roosts_v0.0.2_standard_splits.json

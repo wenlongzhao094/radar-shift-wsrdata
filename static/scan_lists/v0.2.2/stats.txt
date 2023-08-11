@@ -1,0 +1,92 @@
+v0.2.2
+
+n_days: 35797
+n_roost_days: 7201
+n_non_roost_days: 28596
+
+n_scans: 612786
+n_scans_with_roosts: 38446
+n_scans_without_roosts_in_roost_days: 84538
+n_scans_in_non_roost_days: 489802
+
+n_roost_annotations: 64960
+n_roost_annotations_not_miss_day: 58753
+n_bad_track_annotations: 4461
+
+v0.2.2_no_dualpol_splits
+n_scans: 111330
+n_train_scans: 60423
+n_val_scans: 12928
+n_test_scans: 37979
+
+n_days: 6460
+n_train_days: 3515
+n_val_days: 755
+n_test_days: 2190
+
+v0.2.2_dualpol_splits
+n_scans: 88106
+n_train_scans: 47938
+n_val_scans: 10181
+n_test_scans: 29987
+
+n_days: 4857
+n_train_days: 2641
+n_val_days: 564
+n_test_days: 1652
+
+v0.2.2_standard_splits
+n_scans: 199436
+n_neg_scans:n_pos_scans = 4.187431722415856
+n_train_scans: 108361
+n_val_scans: 23109
+n_test_scans: 67966
+
+n_days: 11317
+n_train_days: 6156
+n_val_days: 1319
+n_test_days: 3842
+
+v0.2.2_station1_splits
+n_scans: 199338
+n_train_scans: 101645
+n_val_scans: 45184
+n_test_scans: 52509
+
+n_days: 11310
+n_train_days: 5622
+n_val_days: 2575
+n_test_days: 3113
+
+v0.2.2_station2_splits
+n_scans: 199338
+n_train_scans: 101645
+n_val_scans: 52509
+n_test_scans: 45184
+
+n_days: 11310
+n_train_days: 5622
+n_val_days: 3113
+n_test_days: 2575
+
+v0.2.2_station3_splits
+n_scans: 199338
+n_train_scans: 120343
+n_val_scans: 41721
+n_test_scans: 37274
+
+n_days: 11310
+n_train_days: 6830
+n_val_days: 2367
+n_test_days: 2113
+
+v0.2.2_station4_splits
+n_scans: 199338
+n_train_scans: 120343
+n_val_scans: 37274
+n_test_scans: 41721
+
+n_days: 11310
+n_train_days: 6830
+n_val_days: 2113
+n_test_days: 2367
